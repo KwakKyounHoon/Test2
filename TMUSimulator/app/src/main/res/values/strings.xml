@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TMUSimulator</string>
+    <string name="setting">Settings</string>
+    <string name="diagnostics">Diagnostics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_car_diagnostics">Diagnostics</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_command">Last Command :</string>
+
+</resources>

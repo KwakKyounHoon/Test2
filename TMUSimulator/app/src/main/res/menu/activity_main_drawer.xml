@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/remote_start"
+            android:title="Remote Start" />
+        <item
+            android:id="@+id/remote_stop"
+            android:title="Remote Stop" />
+        <item
+            android:id="@+id/door_lock"
+            android:title="Door Look" />
+        <item
+            android:id="@+id/door_unlock"
+            android:title="Door Unlock" />
+        <item
+            android:id="@+id/horn"
+            android:title="Horn" />
+        <item
+            android:id="@+id/light"
+            android:title="Light" />
+        <item
+            android:id="@+id/set_climate"
+            android:title="Set Climate" />
+        <item
+            android:id="@+id/get_vehicle_status"
+            android:title="Get Vehicle Status" />
+        <item
+            android:id="@+id/get_diagnostics_info"
+            android:title="Get Diagnostics Info" />
+        <item
+            android:id="@+id/reset_maintenance"
+            android:title="Reset Maintenance" />
+        <item
+            android:id="@+id/get_vehicle_location"
+            android:title="Get Vehicle Location" />
+    </group>
+</menu>
